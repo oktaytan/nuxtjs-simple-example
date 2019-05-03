@@ -32,16 +32,21 @@ export default {
 }
 .header .title {
   font-size: 3rem;
-  color: #526488;
+  color: #318abd;
 }
 .header ul {
   display: flex;
 }
 .header a {
   display: inline-block;
-  background: #333;
+  background: #318abd;
   color: #fff;
   padding: 0.3rem 1rem;
   margin-right: 0.5rem;
+  transition: all 0.25s ease;
+}
+
+.header a:hover {
+  background-color: #236286;
 }
 </style>

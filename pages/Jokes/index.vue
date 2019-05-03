@@ -88,7 +88,7 @@ export default {
   justify-content: center;
   align-items: center;
   font-size: 1.2rem;
-  color: #3584ce;
+  color: #318abd;
 }
 
 .isloading::after {
@@ -97,7 +97,7 @@ export default {
   height: 150px;
   border-radius: 50%;
   background-color: transparent;
-  border: 15px solid #3584ce;
+  border: 15px solid #318abd;
   border-right-color: transparent;
   border-top-color: transparent;
   border-right-width: -15px;
